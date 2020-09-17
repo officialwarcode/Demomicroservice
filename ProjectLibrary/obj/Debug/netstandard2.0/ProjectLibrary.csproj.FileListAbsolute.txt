@@ -1,0 +1,9 @@
+C:\WINDOWS\system32\PipelineDemo\ProjectLibrary\bin\Debug\netstandard2.0\ProjectLibrary.deps.json
+C:\WINDOWS\system32\PipelineDemo\ProjectLibrary\bin\Debug\netstandard2.0\ProjectLibrary.dll
+C:\WINDOWS\system32\PipelineDemo\ProjectLibrary\bin\Debug\netstandard2.0\ProjectLibrary.pdb
+C:\WINDOWS\system32\PipelineDemo\ProjectLibrary\obj\Debug\netstandard2.0\ProjectLibrary.csprojAssemblyReference.cache
+C:\WINDOWS\system32\PipelineDemo\ProjectLibrary\obj\Debug\netstandard2.0\ProjectLibrary.AssemblyInfoInputs.cache
+C:\WINDOWS\system32\PipelineDemo\ProjectLibrary\obj\Debug\netstandard2.0\ProjectLibrary.AssemblyInfo.cs
+C:\WINDOWS\system32\PipelineDemo\ProjectLibrary\obj\Debug\netstandard2.0\ProjectLibrary.csproj.CoreCompileInputs.cache
+C:\WINDOWS\system32\PipelineDemo\ProjectLibrary\obj\Debug\netstandard2.0\ProjectLibrary.dll
+C:\WINDOWS\system32\PipelineDemo\ProjectLibrary\obj\Debug\netstandard2.0\ProjectLibrary.pdb

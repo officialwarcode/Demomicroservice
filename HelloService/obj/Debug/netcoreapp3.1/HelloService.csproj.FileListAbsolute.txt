@@ -1,0 +1,16 @@
+C:\WINDOWS\system32\PipelineDemo\HelloService\bin\Debug\netcoreapp3.1\HelloService.exe
+C:\WINDOWS\system32\PipelineDemo\HelloService\bin\Debug\netcoreapp3.1\HelloService.deps.json
+C:\WINDOWS\system32\PipelineDemo\HelloService\bin\Debug\netcoreapp3.1\HelloService.runtimeconfig.json
+C:\WINDOWS\system32\PipelineDemo\HelloService\bin\Debug\netcoreapp3.1\HelloService.runtimeconfig.dev.json
+C:\WINDOWS\system32\PipelineDemo\HelloService\bin\Debug\netcoreapp3.1\HelloService.dll
+C:\WINDOWS\system32\PipelineDemo\HelloService\bin\Debug\netcoreapp3.1\HelloService.pdb
+C:\WINDOWS\system32\PipelineDemo\HelloService\bin\Debug\netcoreapp3.1\ProjectLibrary.dll
+C:\WINDOWS\system32\PipelineDemo\HelloService\bin\Debug\netcoreapp3.1\ProjectLibrary.pdb
+C:\WINDOWS\system32\PipelineDemo\HelloService\obj\Debug\netcoreapp3.1\HelloService.csprojAssemblyReference.cache
+C:\WINDOWS\system32\PipelineDemo\HelloService\obj\Debug\netcoreapp3.1\HelloService.AssemblyInfoInputs.cache
+C:\WINDOWS\system32\PipelineDemo\HelloService\obj\Debug\netcoreapp3.1\HelloService.AssemblyInfo.cs
+C:\WINDOWS\system32\PipelineDemo\HelloService\obj\Debug\netcoreapp3.1\HelloService.csproj.CoreCompileInputs.cache
+C:\WINDOWS\system32\PipelineDemo\HelloService\obj\Debug\netcoreapp3.1\HelloService.csproj.CopyComplete
+C:\WINDOWS\system32\PipelineDemo\HelloService\obj\Debug\netcoreapp3.1\HelloService.dll
+C:\WINDOWS\system32\PipelineDemo\HelloService\obj\Debug\netcoreapp3.1\HelloService.pdb
+C:\WINDOWS\system32\PipelineDemo\HelloService\obj\Debug\netcoreapp3.1\HelloService.genruntimeconfig.cache

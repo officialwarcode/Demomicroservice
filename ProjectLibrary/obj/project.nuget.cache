@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pXmv0jn9WVkNZpTS9V4JihTPqDPt4ZhKB51vEncwmJ3JJ5K9tpdF2G7jkvT94cWFEpSddQK1Xua5nK1yHqdbrw==",
+  "success": true,
+  "projectFilePath": "C:\\WINDOWS\\system32\\PipelineDemo\\ProjectLibrary\\ProjectLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shiagarw10\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\shiagarw10\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
